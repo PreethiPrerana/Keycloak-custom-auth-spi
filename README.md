@@ -1,3 +1,5 @@
+Hello
+
 # Keycloak SPI authentication example
 
 An example of implementing a Service Provider Interface (SPI) for Keycloak.
